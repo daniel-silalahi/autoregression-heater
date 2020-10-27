@@ -12,3 +12,4 @@ A dataset that we will predict the future results of will be introduced in the n
 The dataset I will be using is the amount of search results for the word ‘heater’ over time in the United States with a time interval of 1 month, this data is available through google trends (https://trends.google.com/trends/explore?date=all&geo=US&q=heater)
 
 
+In this project. I used python and its common data analytic libraries (matplotlib, numpy etc.)
